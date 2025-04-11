@@ -1,0 +1,196 @@
+body {
+    margin: 0;
+}
+
+.heading {
+    display: flex;
+
+}
+
+.Headphones {
+    color: white;
+}
+
+.icon {
+    margin-top: 15px;
+    color: white;
+}
+
+.links {
+    padding-left: 900px;
+    margin-top: 30px;
+
+}
+
+.what {
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+
+
+}
+
+.our {
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+
+
+
+}
+
+.contact {
+
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+
+
+}
+
+
+header {
+    background-image: url(images/headphones_hero_1.jpg);
+    height: 700px;
+
+}
+
+.words {
+    color: white;
+    text-align: center;
+    padding-top: 250px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+.btn {
+    background-color: #FF6565;
+    border-radius: 10px;
+    height: 35px;
+    color: white;
+    width: 140px;
+}
+
+.lorem1 {
+    font-size: 13px;
+}
+
+.parent {
+    display: flex;
+    margin-left: 50px;
+}
+
+.text2 p {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.icons {
+    font-size: 80px;
+    color: #FF6565;
+    text-align: center;
+    text-align: center;
+    padding: 80px;
+}
+
+
+
+
+
+.main {
+    display: flex;
+    margin-top: 80px;
+    align-items: center;
+    justify-content: center;
+}
+
+.master {
+    text-align: center;
+    font-size: 10px;
+    color: black;
+}
+
+
+.pic {
+    background-image: url(images/headphones_hero_2.jpg);
+    width: 100%;
+    height: 400px;
+
+}
+
+.texting p {
+    text-align: center;
+    padding-top: 300px;
+    font-size: 15px;
+    color: white;
+
+}
+
+.images {
+    
+    margin-top: 150px;
+    margin-left: 400PX;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.lines {
+    align-content: center;
+    width: 40px;
+}
+
+
+
+.last {
+    display: flex;
+    width: 100%;
+    background-color: rgb(15, 10, 24);
+    padding: 40px;
+
+}
+
+.last p {
+    display: flex;
+    color: white;
+    margin-bottom: 50px;
+}
+
+.social {
+    color: white;
+    float: right;
+    padding-right: 40px;
+}
+
+
+
+span {
+    color: white;
+    text-align: center;
+    margin-bottom:20px ;
+}
+
+.image-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-container img {
+    width: 100px;
+    height: auto;
+}
+
+.image-container span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    
+}
